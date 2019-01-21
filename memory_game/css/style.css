@@ -6,6 +6,7 @@ h1{
   font-family: "Raleway" , sans-serif;
   color: #0D2C40;
   letter-spacing: 1px;
+  text-transform: uppercase;
   font-weight: 400;
   font-size: 45px;
   margin: 0;
@@ -36,6 +37,7 @@ header{
   background-color: #F15B31;
   color:#FFFFFF;
   padding: 30px 20px;
+
 }
 nav{
   background-color: #00A6B3;
